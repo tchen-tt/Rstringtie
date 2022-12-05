@@ -1,0 +1,2 @@
+# Rstringtie
+ Transcriptome sequencing assembly
