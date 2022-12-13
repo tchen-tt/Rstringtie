@@ -1,6 +1,6 @@
 .Stringtiebin <- function(args = "") {
   if (is.null(args) || args == "") {
-    stop("The stringtie binaries nedd to called",
+    stop("The stringtie binaries need to called",
          " with additional arguments")
   }
   args <- gsub("^ *| *$", "", args)
