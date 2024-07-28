@@ -1,4 +1,7 @@
 # Rstringtie
+[![License: GPL
+v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+![Last Commit](https://badgen.net/github/last-commit/tchen-tt/Rstringtie/main)    
 Tools for de novo transcriptome assembly from RNA sequencing data. It's used to identify new transcripts and to screen for and discover transposon-mediated chimeric transcripts.
  
 ![](./picture/chimeric.png)
