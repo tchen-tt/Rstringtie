@@ -1,12 +1,12 @@
 Package: Rstringtie
-Type: Package
-Title: What the Package Does (Title Case)
+Type: Chimeric transcript detection tools
+Title: 
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Authors@R: c(
+  person(given = "Tao", family = "Chen", role = c("aut", "cre"), email = "taochenhm@gmail.com"))
+Description: Tools for transcriptome reassembly based on RNA sequencing. Capable of discovering 
+  new transcripts and identifying transposon-mediated chimeric transcripts.  
+License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
 Imports: 
