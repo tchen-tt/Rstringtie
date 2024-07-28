@@ -7,3 +7,8 @@ Rstringtie has been successfully installed on Mac OSX, Linux, and Windows, using
 ```
 devtools::install_github("tchen-tt/Rstringtie")
 ```
+
+# Contribution
+Improvements and new features will be added on a regular basis, please post on the github page with any question or if you would like to contribute.
+
+
