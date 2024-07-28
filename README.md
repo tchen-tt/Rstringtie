@@ -4,5 +4,6 @@ Tools for de novo transcriptome assembly from RNA sequencing data. It's used to 
 # Installation
 Rstringtie has been successfully installed on Mac OSX, Linux, and Windows, using the devtools package to install directly from GitHub
 
-```devtools::install_github("tchen-tt/Rstringtie")
+```
+devtools::install_github("tchen-tt/Rstringtie")
 ```
